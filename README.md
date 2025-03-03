@@ -1,6 +1,13 @@
-# mern-stack-blog-app
-complete mern stack blog application source code 2023
+# Blog-App
 
-# please check branches more code coming soon !
-Dont forgot follow on github as well 
-##  thanks for watching techinfoyt
+Responsive Travel Website Using React.js And Tailwind CSS - [Website Link](https://warm-empanada-7d8d94.netlify.app/)
+
+![Practice](https://img.shields.io/badge/Practice-ReactJs/TailwindCSS-blue.svg)
+
+## Tech Stack
+
+- HTML5
+- ReactJs
+- Tailwind (CSS Framework)
+- React Icons (Package Manager)
+
